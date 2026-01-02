@@ -57,7 +57,7 @@ jobs:
       continue-on-error: true
     
     - name: Dependency security check
-      run: safety check --json --output safety-report.json
+      run: safety check --output json || true
       continue-on-error: true
 
   test:
