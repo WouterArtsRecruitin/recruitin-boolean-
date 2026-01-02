@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  recruitin-boolean:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: recruitin/boolean-search:latest
+    container_name: recruitin-boolean-dev
+    environment:
+      - PYTHON_ENV=development
+      - LOG_LEVEL=DEBUG
+    volumes:
+      # Mount source code for development
+      - .:/app
+      # Mount data directory for persistence
+      - ./data:/app/data
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    networks:
+      - recruitin-network
+
+  # Optional: Add PostgreSQL if needed for data storage
+  postgres:
+    image: postgres:15-alpine
+    container_name: recruitin-postgres
+    environment:
+      POSTGRES_DB: recruitin_boolean
+      POSTGRES_USER: recruitin
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-development_password}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - recruitin-network
+
+  # Optional: Add Redis for caching
+  redis:
+    image: redis:7-alpine
+    container_name: recruitin-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - recruitin-network
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  recruitin-network:
+    driver: bridge

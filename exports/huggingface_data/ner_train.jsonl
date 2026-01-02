@@ -1,0 +1,82 @@
+{"tokens": ["Gezocht:", "Werkvoorbereider", "met", "kennis", "van", "AutoCAD"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Werkvoorbereider", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Werkvoorbereider", "met", "kennis", "van", "E-Plan"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "AutoCAD"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "E-Plan"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Technisch", "Planner", "met", "kennis", "van", "AutoCAD"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Technisch", "Planner", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Technisch", "Planner", "met", "kennis", "van", "E-Plan"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Tekenaar-Werkvoorbereider", "met", "kennis", "van", "AutoCAD"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Tekenaar-Werkvoorbereider", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Tekenaar-Werkvoorbereider", "met", "kennis", "van", "E-Plan"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Vereist:", "certificering", "VCA"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Vereist:", "certificering", "VCA", "VOL"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Vereist:", "certificering", "VCA", "Basis"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Vereist:", "certificering", "NEN1010"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Vereist:", "certificering", "NEN3140"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "werkvoorbereider_elektro"}
+{"tokens": ["Gezocht:", "Werkvoorbereider", "met", "kennis", "van", "BIM"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Werkvoorbereider", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Werkvoorbereider", "met", "kennis", "van", "Revit", "MEP"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "BIM"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "Revit", "MEP"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Technisch", "Planner", "met", "kennis", "van", "BIM"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Technisch", "Planner", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Technisch", "Planner", "met", "kennis", "van", "Revit", "MEP"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Tekenaar-Werkvoorbereider", "met", "kennis", "van", "BIM"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Tekenaar-Werkvoorbereider", "met", "kennis", "van", "Revit"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Tekenaar-Werkvoorbereider", "met", "kennis", "van", "Revit", "MEP"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Vereist:", "certificering", "VCA"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Vereist:", "certificering", "VCA", "VOL"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Vereist:", "certificering", "VCA", "Basis"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Vereist:", "certificering", "F-gassen"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Vereist:", "certificering", "BIM", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "werkvoorbereider_installatie"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "calculatie"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "IBIS"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Calculator", "met", "kennis", "van", "Excel"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Kostencalculator", "met", "kennis", "van", "calculatie"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Kostencalculator", "met", "kennis", "van", "IBIS"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Kostencalculator", "met", "kennis", "van", "Excel"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Bouwcalculator", "met", "kennis", "van", "calculatie"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Bouwcalculator", "met", "kennis", "van", "IBIS"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Bouwcalculator", "met", "kennis", "van", "Excel"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Tender", "Manager", "met", "kennis", "van", "calculatie"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Tender", "Manager", "met", "kennis", "van", "IBIS"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Tender", "Manager", "met", "kennis", "van", "Excel"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Vereist:", "certificering", "VCA"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Vereist:", "certificering", "VCA", "VOL"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Vereist:", "certificering", "HBO", "Bouwkunde"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Vereist:", "certificering", "MBO", "Bouwkunde", "niveau", "4"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT", "I-CERT"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Vereist:", "certificering", "RICS"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "calculator_bouw"}
+{"tokens": ["Gezocht:", "Software", "Engineer", "met", "kennis", "van", "Python"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Software", "Engineer", "met", "kennis", "van", "Java"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Software", "Engineer", "met", "kennis", "van", "C++"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Developer", "met", "kennis", "van", "Python"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Developer", "met", "kennis", "van", "Java"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Developer", "met", "kennis", "van", "C++"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Software", "Developer", "met", "kennis", "van", "Python"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Software", "Developer", "met", "kennis", "van", "Java"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Software", "Developer", "met", "kennis", "van", "C++"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Programmer", "met", "kennis", "van", "Python"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Programmer", "met", "kennis", "van", "Java"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Programmer", "met", "kennis", "van", "C++"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "software_engineer"}
+{"tokens": ["Vereist:", "certificering", "AWS", "Certified"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "software_engineer"}
+{"tokens": ["Vereist:", "certificering", "AWS", "Solutions", "Architect"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT"], "functiegroep": "software_engineer"}
+{"tokens": ["Vereist:", "certificering", "AWS", "Developer"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "software_engineer"}
+{"tokens": ["Vereist:", "certificering", "Azure", "Certified"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "software_engineer"}
+{"tokens": ["Vereist:", "certificering", "Azure", "Developer"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "software_engineer"}
+{"tokens": ["Gezocht:", "Operator", "met", "kennis", "van", "procesbesturing"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Operator", "met", "kennis", "van", "DCS"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Operator", "met", "kennis", "van", "Honeywell"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Procesoperator", "met", "kennis", "van", "procesbesturing"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Procesoperator", "met", "kennis", "van", "DCS"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Procesoperator", "met", "kennis", "van", "Honeywell"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Machine", "Operator", "met", "kennis", "van", "procesbesturing"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Machine", "Operator", "met", "kennis", "van", "DCS"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Machine", "Operator", "met", "kennis", "van", "Honeywell"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
+{"tokens": ["Vereist:", "certificering", "VAPRO", "A"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
+{"tokens": ["Vereist:", "certificering", "VAPRO", "B"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
+{"tokens": ["Vereist:", "certificering", "VAPRO", "C"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
+{"tokens": ["Vereist:", "certificering", "VAPRO", "D"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
+{"tokens": ["Vereist:", "certificering", "VAPRO", "Operator"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
