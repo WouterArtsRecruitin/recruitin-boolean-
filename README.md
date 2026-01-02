@@ -15,12 +15,14 @@ Een complete toolkit voor het genereren van boolean search strings, look-alike m
 ### Installatie
 
 ```bash
-# Clone the repository
-git clone <repo-url>
-cd recruitin_boolean
+pip install recruitin-boolean
+```
 
-# Install dependencies
-pip install -r requirements.txt
+Of voor development:
+```bash
+git clone https://github.com/WouterArtsRecruitin/recruitin-boolean-.git
+cd recruitin-boolean-
+pip install -e .
 ```
 
 ### Python API Usage
