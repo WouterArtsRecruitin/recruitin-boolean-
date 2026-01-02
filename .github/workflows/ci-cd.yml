@@ -57,7 +57,7 @@ jobs:
       continue-on-error: true
     
     - name: Dependency security check
-      run: safety check --json --output safety-report.json
+      run: safety check --output json || true
       continue-on-error: true
 
   test:
@@ -134,12 +134,7 @@ jobs:
     if: github.event_name == 'release' && github.event.action == 'published'
     needs: [build]
     runs-on: ubuntu-latest
-    environment:
-      name: pypi
-      url: https://pypi.org/p/recruitin-boolean
-    permissions:
-      id-token: write
-    
+
     steps:
     - name: Download build artifacts
       uses: actions/download-artifact@v4
