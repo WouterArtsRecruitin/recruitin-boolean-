@@ -39,7 +39,7 @@ jobs:
         pip install black flake8 mypy bandit safety pytest pytest-cov
     
     - name: Format check with Black
-      run: black --check --diff recruitin_boolean/ tests/
+      run: black --check --diff .
     
     - name: Lint with flake8
       run: |
@@ -154,9 +154,10 @@ jobs:
 
   publish-docker:
     name: Build and Push Docker Image
-    if: github.ref == 'refs/heads/main' || github.event_name == 'release'
+    if: (github.ref == 'refs/heads/main' || github.event_name == 'release') && vars.ENABLE_DOCKER == 'true'
     needs: [build]
     runs-on: ubuntu-latest
+    continue-on-error: true
     
     steps:
     - uses: actions/checkout@v4
