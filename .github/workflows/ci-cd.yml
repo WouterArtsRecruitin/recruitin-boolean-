@@ -151,6 +151,7 @@ jobs:
       uses: pypa/gh-action-pypi-publish@release/v1
       with:
         verbose: true
+        password: ${{ secrets.PYPI_API_TOKEN }}
 
   publish-docker:
     name: Build and Push Docker Image
