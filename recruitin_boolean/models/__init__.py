@@ -7,7 +7,4 @@ This package contains all data models and taxonomies used for boolean search gen
 from .functiegroep import FunctieGroep
 from .taxonomie import FUNCTIEGROEPEN
 
-__all__ = [
-    'FunctieGroep',
-    'FUNCTIEGROEPEN'
-]
+__all__ = ["FunctieGroep", "FUNCTIEGROEPEN"]

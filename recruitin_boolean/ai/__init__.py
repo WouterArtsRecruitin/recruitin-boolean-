@@ -7,7 +7,4 @@ This package contains AI-powered matching and training data generation component
 from .lookalike_matcher import LookAlikeMatcher
 from .huggingface_exporter import HuggingFaceDataGenerator
 
-__all__ = [
-    'LookAlikeMatcher',
-    'HuggingFaceDataGenerator'
-]
+__all__ = ["LookAlikeMatcher", "HuggingFaceDataGenerator"]

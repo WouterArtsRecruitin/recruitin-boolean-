@@ -14,7 +14,7 @@ from ..models import FunctieGroep
 class BooleanSearchGenerator:
     """
     Genereert boolean search strings voor LinkedIn en andere platforms.
-    
+
     This class provides methods to build sophisticated boolean search strings
     for various recruitment scenarios including title-based searches,
     skill-based searches, competitor searches, and more.
@@ -27,10 +27,10 @@ class BooleanSearchGenerator:
     def _quote_phrase(self, phrase: str) -> str:
         """
         Zet een phrase tussen quotes als het spaties bevat.
-        
+
         Args:
             phrase: The phrase to potentially quote
-            
+
         Returns:
             Quoted phrase if it contains spaces, otherwise original phrase
         """
@@ -41,10 +41,10 @@ class BooleanSearchGenerator:
     def _build_or_clause(self, items: List[str]) -> str:
         """
         Bouwt een OR clause van items.
-        
+
         Args:
             items: List of search terms
-            
+
         Returns:
             OR clause with properly quoted phrases
         """
@@ -54,23 +54,27 @@ class BooleanSearchGenerator:
     def _build_and_clause(self, clauses: List[str]) -> str:
         """
         Bouwt een AND clause van sub-clauses.
-        
+
         Args:
             clauses: List of search clauses
-            
+
         Returns:
             AND clause with properly wrapped sub-clauses
         """
-        wrapped = [f"({clause})" if " OR " in clause else clause for clause in clauses if clause]
+        wrapped = [
+            f"({clause})" if " OR " in clause else clause
+            for clause in clauses
+            if clause
+        ]
         return " AND ".join(wrapped)
 
     def generate_title_search(self, fg: FunctieGroep) -> str:
         """
         Genereert boolean search op basis van functietitels.
-        
+
         Args:
             fg: Function group to generate search for
-            
+
         Returns:
             Boolean search string for job titles
         """
@@ -80,10 +84,10 @@ class BooleanSearchGenerator:
     def generate_skill_search(self, fg: FunctieGroep) -> str:
         """
         Genereert boolean search op basis van skills.
-        
+
         Args:
             fg: Function group to generate search for
-            
+
         Returns:
             Boolean search string for skills
         """
@@ -92,10 +96,10 @@ class BooleanSearchGenerator:
     def generate_certification_search(self, fg: FunctieGroep) -> str:
         """
         Genereert boolean search op basis van certificeringen.
-        
+
         Args:
             fg: Function group to generate search for
-            
+
         Returns:
             Boolean search string for certifications
         """
@@ -104,10 +108,10 @@ class BooleanSearchGenerator:
     def generate_competitor_search(self, fg: FunctieGroep) -> str:
         """
         Genereert boolean search voor competitor targeting.
-        
+
         Args:
             fg: Function group to generate search for
-            
+
         Returns:
             Boolean search string for competitor companies
         """
@@ -117,10 +121,10 @@ class BooleanSearchGenerator:
     def generate_lookalike_company_search(self, fg: FunctieGroep) -> str:
         """
         Genereert boolean search voor huidige werknemers (look-alikes).
-        
+
         Args:
             fg: Function group to generate search for
-            
+
         Returns:
             Boolean search string for typical employer companies
         """
@@ -132,20 +136,20 @@ class BooleanSearchGenerator:
         fg: FunctieGroep,
         include_location: bool = False,
         location: Optional[str] = None,
-        search_type: str = "breed"
+        search_type: str = "breed",
     ) -> Dict[str, str]:
         """
         Genereert gecombineerde boolean searches per type.
-        
+
         This method generates multiple search variations optimized for different
         recruitment scenarios.
-        
+
         Args:
             fg: Function group to generate searches for
             include_location: Whether to include location in base search
             location: Location to include if specified
             search_type: Type of search to generate (not currently used)
-            
+
         Returns:
             Dict with search type as key and boolean string as value
         """
@@ -180,7 +184,9 @@ class BooleanSearchGenerator:
             searches["skill_based"] = f"({title_search}) AND ({skill_search})"
 
         # 6. OPEN_TO_WORK
-        open_to_work = '(#OpenToWork OR "open to work" OR "actively looking" OR "looking for")'
+        open_to_work = (
+            '(#OpenToWork OR "open to work" OR "actively looking" OR "looking for")'
+        )
         searches["open_to_work"] = f"({title_search}) AND {open_to_work}"
 
         # 7. CERTIFICATION - Certificering search
@@ -195,17 +201,17 @@ class BooleanSearchGenerator:
         vacancy_title: str,
         company: str,
         location: str,
-        fg_id: Optional[str] = None
+        fg_id: Optional[str] = None,
     ) -> Dict[str, Dict]:
         """
         Genereert alle boolean searches voor een specifieke vacature.
-        
+
         Args:
             vacancy_title: The job title to search for
             company: Company posting the vacancy
             location: Location of the vacancy
             fg_id: Optional function group ID to use
-            
+
         Returns:
             Dict with complete search configuration
         """
@@ -216,7 +222,9 @@ class BooleanSearchGenerator:
             fg = self._match_vacancy_to_functiegroep(vacancy_title)
 
         if not fg:
-            return {"error": f"Geen matching functiegroep gevonden voor: {vacancy_title}"}
+            return {
+                "error": f"Geen matching functiegroep gevonden voor: {vacancy_title}"
+            }
 
         # Genereer alle searches
         searches = self.generate_combined_search(fg)
@@ -226,14 +234,10 @@ class BooleanSearchGenerator:
             "vacancy": {
                 "title": vacancy_title,
                 "company": company,
-                "location": location
+                "location": location,
             },
-            "functiegroep": {
-                "id": fg.id,
-                "naam": fg.naam,
-                "categorie": fg.categorie
-            },
-            "searches": {}
+            "functiegroep": {"id": fg.id, "naam": fg.naam, "categorie": fg.categorie},
+            "searches": {},
         }
 
         # Bouw de volledige searches met filters
@@ -246,21 +250,25 @@ class BooleanSearchGenerator:
                 "boolean_with_location": f"({boolean_string}) AND ({location_clause})",
                 "priority": self._get_priority(search_type),
                 "expected_results": self._estimate_results(search_type),
-                "linkedin_filters": self._get_linkedin_filters(search_type, fg, company, location)
+                "linkedin_filters": self._get_linkedin_filters(
+                    search_type, fg, company, location
+                ),
             }
 
         return result
 
-    def _match_vacancy_to_functiegroep(self, vacancy_title: str) -> Optional[FunctieGroep]:
+    def _match_vacancy_to_functiegroep(
+        self, vacancy_title: str
+    ) -> Optional[FunctieGroep]:
         """
         Match een vacaturetitel aan de beste functiegroep.
-        
+
         Uses a scoring system based on title matches and sector keywords
         to find the best matching function group.
-        
+
         Args:
             vacancy_title: The job title to match
-            
+
         Returns:
             Best matching FunctieGroep or None if no good match
         """
@@ -289,10 +297,10 @@ class BooleanSearchGenerator:
     def _get_nearby_locations(self, location: str) -> List[str]:
         """
         Geeft nabijgelegen locaties voor geografische filtering.
-        
+
         Args:
             location: Base location to find nearby locations for
-            
+
         Returns:
             List of nearby locations including the base location
         """
@@ -300,13 +308,19 @@ class BooleanSearchGenerator:
         region_mapping = {
             "GELDERLAND": ["Arnhem", "Nijmegen", "Apeldoorn", "Ede", "Doetinchem"],
             "OVERIJSSEL": ["Zwolle", "Enschede", "Deventer", "Almelo", "Hengelo"],
-            "NOORD-BRABANT": ["Eindhoven", "Tilburg", "Breda", "'s-Hertogenbosch", "Helmond"],
+            "NOORD-BRABANT": [
+                "Eindhoven",
+                "Tilburg",
+                "Breda",
+                "'s-Hertogenbosch",
+                "Helmond",
+            ],
             "LIMBURG": ["Maastricht", "Venlo", "Roermond", "Heerlen", "Sittard"],
-            "UTRECHT": ["Utrecht", "Amersfoort", "Nieuwegein", "Veenendaal", "Zeist"]
+            "UTRECHT": ["Utrecht", "Amersfoort", "Nieuwegein", "Veenendaal", "Zeist"],
         }
 
         # Check input validity
-        if location is None or (isinstance(location, float) and str(location) == 'nan'):
+        if location is None or (isinstance(location, float) and str(location) == "nan"):
             return []
 
         location = str(location).strip()
@@ -333,7 +347,7 @@ class BooleanSearchGenerator:
             "specifiek": "MEDIUM",
             "skill_based": "MEDIUM",
             "breed": "LOW",
-            "certification": "LOW"
+            "certification": "LOW",
         }
         return priorities.get(search_type, "MEDIUM")
 
@@ -346,22 +360,15 @@ class BooleanSearchGenerator:
             "competitor": "200-800",
             "skill_based": "100-400",
             "open_to_work": "50-200",
-            "certification": "50-150"
+            "certification": "50-150",
         }
         return estimates.get(search_type, "100-500")
 
     def _get_linkedin_filters(
-        self,
-        search_type: str,
-        fg: FunctieGroep,
-        company: str,
-        location: str
+        self, search_type: str, fg: FunctieGroep, company: str, location: str
     ) -> Dict:
         """Genereert aanbevolen LinkedIn Recruiter filters."""
-        base_filters = {
-            "location": location,
-            "industry": self._get_industries(fg)
-        }
+        base_filters = {"location": location, "industry": self._get_industries(fg)}
 
         if search_type == "open_to_work":
             base_filters["open_to_work"] = True
@@ -382,6 +389,6 @@ class BooleanSearchGenerator:
             "engineering": ["Engineering", "Manufacturing", "IT"],
             "productie": ["Manufacturing", "Food & Beverage"],
             "metaal": ["Manufacturing", "Construction"],
-            "software": ["Information Technology", "Computer Software", "Internet"]
+            "software": ["Information Technology", "Computer Software", "Internet"],
         }
         return industry_mapping.get(fg.categorie, ["Engineering"])

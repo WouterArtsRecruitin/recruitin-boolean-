@@ -7,7 +7,4 @@ This package contains all boolean search generation logic and validation utiliti
 from .boolean_builder import BooleanSearchGenerator
 from .validators import SearchValidator
 
-__all__ = [
-    'BooleanSearchGenerator',
-    'SearchValidator'
-]
+__all__ = ["BooleanSearchGenerator", "SearchValidator"]

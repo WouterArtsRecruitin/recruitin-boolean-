@@ -13,10 +13,10 @@ from typing import List, Dict, Optional, Set
 class FunctieGroep:
     """
     Definieert een functiegroep met alle gerelateerde data voor boolean searches.
-    
+
     Deze dataclass bevat alle informatie die nodig is om effectieve boolean search
     strings te genereren voor verschillende recruitment platforms zoals LinkedIn.
-    
+
     Attributes:
         id: Unieke identifier voor de functiegroep
         naam: Menselijk leesbare naam
@@ -62,9 +62,16 @@ class FunctieGroep:
     concurrenten: List[str] = field(default_factory=list)
 
     # Senioriteitsniveaus
-    seniority_levels: List[str] = field(default_factory=lambda: [
-        "junior", "medior", "senior", "lead", "hoofd", "manager"
-    ])
+    seniority_levels: List[str] = field(
+        default_factory=lambda: [
+            "junior",
+            "medior",
+            "senior",
+            "lead",
+            "hoofd",
+            "manager",
+        ]
+    )
 
     # Sector keywords
     sector_keywords: List[str] = field(default_factory=list)
@@ -72,19 +79,19 @@ class FunctieGroep:
     def to_dict(self) -> Dict:
         """Convert to dictionary for serialization."""
         return asdict(self)
-    
+
     def get_all_titles(self) -> List[str]:
         """Get all titles including synonyms and English titles."""
         return self.titels + self.synoniemen + self.english_titles
-    
+
     def get_unique_skills(self) -> Set[str]:
         """Get unique skills as a set."""
         return set(self.skills)
-    
+
     def has_skill(self, skill: str) -> bool:
         """Check if this function group includes a specific skill."""
         return skill.lower() in [s.lower() for s in self.skills]
-    
+
     def matches_title(self, title: str) -> bool:
         """Check if a given title matches any of this group's titles."""
         title_lower = title.lower()

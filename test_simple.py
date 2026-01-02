@@ -11,9 +11,9 @@ project_root = Path(__file__).parent
 sys.path.insert(0, str(project_root))
 
 # Manually load the necessary modules
-exec(open(project_root / "models" / "functiegroep.py").read())
-exec(open(project_root / "models" / "taxonomie.py").read())  
-exec(open(project_root / "search" / "boolean_builder.py").read())
+exec(open(project_root / "recruitin_boolean" / "models" / "functiegroep.py").read())
+exec(open(project_root / "recruitin_boolean" / "models" / "taxonomie.py").read())
+exec(open(project_root / "recruitin_boolean" / "search" / "boolean_builder.py").read())
 
 class TestBooleanSearchGenerator:
     def test_generate_7_search_variants(self):

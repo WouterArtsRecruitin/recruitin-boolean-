@@ -2,7 +2,7 @@
 JobDigger Boolean Search Processor
 
 Hoofdprocessor die alles combineert:
-- Boolean search generatie per functiegroep  
+- Boolean search generatie per functiegroep
 - Look-alike matching
 - Hugging Face training data export
 - Excel export van searches
@@ -38,10 +38,10 @@ class JobDiggerBooleanProcessor:
     def process_vacancies_file(self, input_file: Path) -> pd.DataFrame:
         """
         Verwerkt een vacature Excel bestand en genereert boolean searches.
-        
+
         Args:
             input_file: Path naar Excel bestand met vacatures
-            
+
         Returns:
             DataFrame met gegenereerde searches
         """
@@ -50,41 +50,41 @@ class JobDiggerBooleanProcessor:
 
         results = []
         for idx, row in df.iterrows():
-            vacancy_title = row.get('Vacature', row.get('Functietitel', ''))
-            company = row.get('Bedrijf', row.get('Bedrijfsnaam', ''))
-            location = row.get('Locatie', row.get('Standplaats', ''))
+            vacancy_title = row.get("Vacature", row.get("Functietitel", ""))
+            company = row.get("Bedrijf", row.get("Bedrijfsnaam", ""))
+            location = row.get("Locatie", row.get("Standplaats", ""))
 
             if not vacancy_title:
                 continue
 
             # Genereer searches
             searches = self.search_generator.generate_all_searches_for_vacancy(
-                vacancy_title=vacancy_title,
-                company=company,
-                location=location
+                vacancy_title=vacancy_title, company=company, location=location
             )
 
             if "error" not in searches:
                 for search_type, search_data in searches.get("searches", {}).items():
-                    results.append({
-                        "Vacature_ID": idx + 1,
-                        "Functietitel": vacancy_title,
-                        "Bedrijf": company,
-                        "Standplaats": location,
-                        "Functiegroep": searches["functiegroep"]["naam"],
-                        "Search_Type": search_type.upper(),
-                        "Priority": search_data["priority"],
-                        "Boolean_String": search_data["boolean"],
-                        "Boolean_Met_Locatie": search_data["boolean_with_location"],
-                        "Verwachte_Resultaten": search_data["expected_results"]
-                    })
+                    results.append(
+                        {
+                            "Vacature_ID": idx + 1,
+                            "Functietitel": vacancy_title,
+                            "Bedrijf": company,
+                            "Standplaats": location,
+                            "Functiegroep": searches["functiegroep"]["naam"],
+                            "Search_Type": search_type.upper(),
+                            "Priority": search_data["priority"],
+                            "Boolean_String": search_data["boolean"],
+                            "Boolean_Met_Locatie": search_data["boolean_with_location"],
+                            "Verwachte_Resultaten": search_data["expected_results"],
+                        }
+                    )
 
         return pd.DataFrame(results)
 
     def generate_full_taxonomy_export(self) -> pd.DataFrame:
         """
         Exporteert de volledige functiegroep taxonomie met searches.
-        
+
         Returns:
             DataFrame met alle functiegroepen en hun searches
         """
@@ -94,24 +94,26 @@ class JobDiggerBooleanProcessor:
             searches = self.search_generator.generate_combined_search(fg)
 
             for search_type, boolean_string in searches.items():
-                results.append({
-                    "Functiegroep_ID": fg_id,
-                    "Functiegroep_Naam": fg.naam,
-                    "Categorie": fg.categorie,
-                    "Search_Type": search_type.upper(),
-                    "Boolean_String": boolean_string,
-                    "Titels": " | ".join(fg.titels),
-                    "Skills": " | ".join(fg.skills[:5]),
-                    "Look_Alikes": " | ".join(fg.look_alikes),
-                    "Concurrenten": " | ".join(fg.concurrenten[:5])
-                })
+                results.append(
+                    {
+                        "Functiegroep_ID": fg_id,
+                        "Functiegroep_Naam": fg.naam,
+                        "Categorie": fg.categorie,
+                        "Search_Type": search_type.upper(),
+                        "Boolean_String": boolean_string,
+                        "Titels": " | ".join(fg.titels),
+                        "Skills": " | ".join(fg.skills[:5]),
+                        "Look_Alikes": " | ".join(fg.look_alikes),
+                        "Concurrenten": " | ".join(fg.concurrenten[:5]),
+                    }
+                )
 
         return pd.DataFrame(results)
 
     def generate_lookalike_matrix(self) -> pd.DataFrame:
         """
         Genereert een look-alike similarity matrix.
-        
+
         Returns:
             DataFrame met similarity scores tussen functiegroepen
         """
@@ -135,7 +137,7 @@ class JobDiggerBooleanProcessor:
         self,
         input_file: Optional[Path] = None,
         output_dir: Path = Path("exports"),
-        generate_hf_data: bool = True
+        generate_hf_data: bool = True,
     ) -> Dict[str, Path]:
         """
         Voert de volledige pipeline uit.
@@ -144,7 +146,7 @@ class JobDiggerBooleanProcessor:
             input_file: Optioneel Excel bestand met vacatures
             output_dir: Directory voor output bestanden
             generate_hf_data: Of Hugging Face data gegenereerd moet worden
-            
+
         Returns:
             Dict met paden naar alle gegenereerde bestanden
         """
@@ -187,11 +189,15 @@ class JobDiggerBooleanProcessor:
             files["huggingface"] = hf_files
 
             # Print statistics
-            with open(hf_files["metadata"], 'r') as f:
+            with open(hf_files["metadata"], "r") as f:
                 metadata = json.load(f)
             stats = metadata.get("statistics", {})
-            print(f"   ✅ Classification: {stats.get('total_classification_samples', 0)} samples")
-            print(f"   ✅ Similarity: {stats.get('total_similarity_samples', 0)} samples")
+            print(
+                f"   ✅ Classification: {stats.get('total_classification_samples', 0)} samples"
+            )
+            print(
+                f"   ✅ Similarity: {stats.get('total_similarity_samples', 0)} samples"
+            )
             print(f"   ✅ NER: {stats.get('total_ner_samples', 0)} samples")
 
         print("\n✨ Pipeline voltooid!")

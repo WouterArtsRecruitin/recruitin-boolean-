@@ -7,7 +7,7 @@ and training data export for recruitment AI models.
 ## Features
 
 - **Boolean Search Generation**: Generate targeted LinkedIn boolean searches per functiegroep
-- **Look-alike Matching**: Find similar profiles across functiegroepen  
+- **Look-alike Matching**: Find similar profiles across functiegroepen
 - **AI Training Data**: Export Hugging Face compatible training datasets
 - **Taxonomy Management**: Structured functiegroep definitions with skills/titles/competitors
 - **Excel Integration**: Import vacancies, export search results with formatting
@@ -40,7 +40,7 @@ files = processor.run_full_pipeline(
 # Show all functiegroepen
 python -m recruitin_boolean --show-taxonomy
 
-# Generate searches for specific functiegroep  
+# Generate searches for specific functiegroep
 python -m recruitin_boolean --search werkvoorbereider_elektro
 
 # Process vacancy file
@@ -65,21 +65,17 @@ __author__ = "Recruitin B.V."
 
 __all__ = [
     # Main processor
-    'JobDiggerBooleanProcessor',
-    
+    "JobDiggerBooleanProcessor",
     # Models
-    'FunctieGroep', 
-    'FUNCTIEGROEPEN',
-    
+    "FunctieGroep",
+    "FUNCTIEGROEPEN",
     # Search functionality
-    'BooleanSearchGenerator',
-    'SearchValidator',
-    
+    "BooleanSearchGenerator",
+    "SearchValidator",
     # AI components
-    'LookAlikeMatcher',
-    'HuggingFaceDataGenerator',
-    
+    "LookAlikeMatcher",
+    "HuggingFaceDataGenerator",
     # Exporters
-    'ExcelExporter',
-    'DataExporter',
+    "ExcelExporter",
+    "DataExporter",
 ]
