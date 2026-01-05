@@ -130,8 +130,13 @@
 {"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Kostencalculator", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Calculator", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Kostencalculator", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Software Engineer", "score": 0.1, "match_type": "negative"}
-{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Operator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Monteur", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Monteur", "score": 0.1, "match_type": "negative"}
 {"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Werkvoorbereider Installatietechniek", "score": 0.95, "match_type": "exact"}
 {"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Calculator Installatie", "score": 0.95, "match_type": "exact"}
 {"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Werkvoorbereider W-techniek", "score": 0.95, "match_type": "exact"}
@@ -272,8 +277,13 @@
 {"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Kostencalculator", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Calculator", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Kostencalculator", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Software Engineer", "score": 0.1, "match_type": "negative"}
-{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Operator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Monteur", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Werkvoorbereider", "sentence2": "Profiel: Monteur", "score": 0.1, "match_type": "negative"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Calculator Bouw", "score": 0.95, "match_type": "exact"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Bouwkostencalculator", "score": 0.95, "match_type": "exact"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Tender Calculator", "score": 0.95, "match_type": "exact"}
@@ -395,7 +405,8 @@
 {"sentence1": "Vacature: Kostencalculator", "sentence2": "Profiel: Werkvoorbereider", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Kostencalculator", "sentence2": "Profiel: Calculator", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Software Engineer", "score": 0.1, "match_type": "negative"}
-{"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Operator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Monteur", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Calculator", "sentence2": "Profiel: Monteur", "score": 0.1, "match_type": "negative"}
 {"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: Software Engineer", "score": 0.95, "match_type": "exact"}
 {"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: Software Developer", "score": 0.95, "match_type": "exact"}
 {"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: Developer", "score": 0.95, "match_type": "exact"}
@@ -556,201 +567,1318 @@
 {"sentence1": "Vacature: Programmer met JavaScript", "sentence2": "Ervaring: JavaScript", "score": 0.8, "match_type": "skill"}
 {"sentence1": "Vacature: Programmer met TypeScript", "sentence2": "Ervaring: TypeScript", "score": 0.8, "match_type": "skill"}
 {"sentence1": "Vacature: Programmer met Node.js", "sentence2": "Ervaring: Node.js", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: PLC Programmeur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: PLC Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Developer", "sentence2": "Profiel: PLC Programmeur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Developer", "sentence2": "Profiel: PLC Engineer", "score": 0.6, "match_type": "lookalike"}
 {"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
 {"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
 {"sentence1": "Vacature: Software Engineer", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Procesoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Machine Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Productieoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: All-round Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Meewerkend Voorman", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Senior Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Junior Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: 1e Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Eerste Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Hoofd Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Lead Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Ervaren Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Procesoperator A", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Procesoperator B", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Procesoperator C", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Procesoperator D", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Chemical Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Chemisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Petrochemisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Refinery Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Raffinaderij Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Plant Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Control Room Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Paneloperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: DCS Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Buitenoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Field Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Outside Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Food Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Voedingsmiddelen Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Farmaceutisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: GMP Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Cleanroom Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Steriele Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Productie Operator Food", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Zuivel Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Brouwerij Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Energie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Power Plant Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Utilities Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: WKK Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Stoomketel Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Koelinstallatie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Waterzuivering Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: RWZI Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Afvalverwerking Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Milieutechnisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Batch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Reactor Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Distillatie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Tankpark Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Vuloperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Blend Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Procesoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Machine Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Productieoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: All-round Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Meewerkend Voorman", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Senior Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Junior Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: 1e Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Eerste Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Hoofd Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Lead Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Ervaren Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Procesoperator A", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Procesoperator B", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Procesoperator C", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Procesoperator D", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Chemical Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Chemisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Petrochemisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Refinery Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Raffinaderij Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Plant Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Control Room Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Paneloperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: DCS Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Buitenoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Field Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Outside Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Food Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Voedingsmiddelen Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Farmaceutisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: GMP Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Cleanroom Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Steriele Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Productie Operator Food", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Zuivel Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Brouwerij Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Energie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Power Plant Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Utilities Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: WKK Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Stoomketel Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Koelinstallatie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Waterzuivering Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: RWZI Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Afvalverwerking Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Milieutechnisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Batch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Reactor Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Distillatie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Tankpark Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Vuloperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Procesoperator", "sentence2": "Profiel: Blend Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Procesoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Machine Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Productieoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: All-round Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Meewerkend Voorman", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Senior Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Junior Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: 1e Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Eerste Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Hoofd Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Lead Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Ervaren Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Procesoperator A", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Procesoperator B", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Procesoperator C", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Procesoperator D", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Chemical Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Chemisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Petrochemisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Refinery Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Raffinaderij Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Plant Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Control Room Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Paneloperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: DCS Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Buitenoperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Field Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Outside Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Food Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Voedingsmiddelen Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Farmaceutisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: GMP Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Cleanroom Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Steriele Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Productie Operator Food", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Zuivel Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Brouwerij Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Energie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Power Plant Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Utilities Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: WKK Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Stoomketel Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Koelinstallatie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Waterzuivering Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: RWZI Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Afvalverwerking Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Milieutechnisch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Batch Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Reactor Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Distillatie Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Tankpark Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Vuloperator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Machine Operator", "sentence2": "Profiel: Blend Operator", "score": 0.95, "match_type": "exact"}
-{"sentence1": "Vacature: Operator met procesbesturing", "sentence2": "Ervaring: procesbesturing", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met DCS", "sentence2": "Ervaring: DCS", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met Honeywell", "sentence2": "Ervaring: Honeywell", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met Emerson DeltaV", "sentence2": "Ervaring: Emerson DeltaV", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met Yokogawa", "sentence2": "Ervaring: Yokogawa", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met ABB 800xA", "sentence2": "Ervaring: ABB 800xA", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met Siemens PCS7", "sentence2": "Ervaring: Siemens PCS7", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met controlekamer", "sentence2": "Ervaring: controlekamer", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met panelbediening", "sentence2": "Ervaring: panelbediening", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator met SCADA", "sentence2": "Ervaring: SCADA", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met procesbesturing", "sentence2": "Ervaring: procesbesturing", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met DCS", "sentence2": "Ervaring: DCS", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met Honeywell", "sentence2": "Ervaring: Honeywell", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met Emerson DeltaV", "sentence2": "Ervaring: Emerson DeltaV", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met Yokogawa", "sentence2": "Ervaring: Yokogawa", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met ABB 800xA", "sentence2": "Ervaring: ABB 800xA", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met Siemens PCS7", "sentence2": "Ervaring: Siemens PCS7", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met controlekamer", "sentence2": "Ervaring: controlekamer", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met panelbediening", "sentence2": "Ervaring: panelbediening", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Procesoperator met SCADA", "sentence2": "Ervaring: SCADA", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met procesbesturing", "sentence2": "Ervaring: procesbesturing", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met DCS", "sentence2": "Ervaring: DCS", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met Honeywell", "sentence2": "Ervaring: Honeywell", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met Emerson DeltaV", "sentence2": "Ervaring: Emerson DeltaV", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met Yokogawa", "sentence2": "Ervaring: Yokogawa", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met ABB 800xA", "sentence2": "Ervaring: ABB 800xA", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met Siemens PCS7", "sentence2": "Ervaring: Siemens PCS7", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met controlekamer", "sentence2": "Ervaring: controlekamer", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met panelbediening", "sentence2": "Ervaring: panelbediening", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Machine Operator met SCADA", "sentence2": "Ervaring: SCADA", "score": 0.8, "match_type": "skill"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
-{"sentence1": "Vacature: Operator", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: E-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Servicemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Onderhoudsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Eerste Monteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Allround Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Senior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Junior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Medior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektrotechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Industrieel Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Laagspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Middenspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Sterkstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Zwakstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Nieuwbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Onderhoud", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur E&I", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: E&I Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Elektrisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Schakelaar Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Installateur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Storingsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Aankomend Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: 1e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: 2e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektricien", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Installatiemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Technicus Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Voorkeur Vakman Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: VOP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: VP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur Scheepvaart", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Monteur Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: E-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Servicemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Onderhoudsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Eerste Monteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Allround Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Senior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Junior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Medior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektrotechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Industrieel Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Laagspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Middenspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Sterkstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Zwakstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Nieuwbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Onderhoud", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Monteur E&I", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: E&I Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Monteur Elektrisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Schakelaar Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Installateur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Storingsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Aankomend Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: 1e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: 2e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektricien", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Installatiemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Technicus Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Voorkeur Vakman Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: VOP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: VP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Elektromonteur Scheepvaart", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: E-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Onderhoudsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Eerste Monteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Allround Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Senior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Junior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Medior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektrotechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Industrieel Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Laagspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Middenspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Sterkstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Zwakstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Nieuwbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Onderhoud", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur E&I", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: E&I Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Elektrisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Schakelaar Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Installateur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Storingsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Aankomend Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: 1e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: 2e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektricien", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Installatiemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Technicus Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Voorkeur Vakman Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: VOP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: VP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur Scheepvaart", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: E-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Servicemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Onderhoudsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Eerste Monteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Allround Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Senior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Junior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Medior Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektrotechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Industrieel Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Laagspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Middenspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Sterkstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Zwakstroom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Nieuwbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Onderhoud", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur E&I", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: E&I Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Elektrisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Schakelaar Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Installateur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Storingsmonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Aankomend Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: 1e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: 2e Elektromonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektricien", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Installatiemonteur Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Technicus Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Voorkeur Vakman Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: VOP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: VP Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Elektromonteur Scheepvaart", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met NEN1010", "sentence2": "Ervaring: NEN1010", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met NEN3140", "sentence2": "Ervaring: NEN3140", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met laagspanning", "sentence2": "Ervaring: laagspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met middenspanning", "sentence2": "Ervaring: middenspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met installatietechniek", "sentence2": "Ervaring: installatietechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met schakelaarinstallaties", "sentence2": "Ervaring: schakelaarinstallaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met kabelwerk", "sentence2": "Ervaring: kabelwerk", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met NEN1010", "sentence2": "Ervaring: NEN1010", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met NEN3140", "sentence2": "Ervaring: NEN3140", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met laagspanning", "sentence2": "Ervaring: laagspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met middenspanning", "sentence2": "Ervaring: middenspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met installatietechniek", "sentence2": "Ervaring: installatietechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met schakelaarinstallaties", "sentence2": "Ervaring: schakelaarinstallaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Elektromonteur met kabelwerk", "sentence2": "Ervaring: kabelwerk", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met NEN1010", "sentence2": "Ervaring: NEN1010", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met NEN3140", "sentence2": "Ervaring: NEN3140", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met laagspanning", "sentence2": "Ervaring: laagspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met middenspanning", "sentence2": "Ervaring: middenspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met installatietechniek", "sentence2": "Ervaring: installatietechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met schakelaarinstallaties", "sentence2": "Ervaring: schakelaarinstallaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met kabelwerk", "sentence2": "Ervaring: kabelwerk", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met NEN1010", "sentence2": "Ervaring: NEN1010", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met NEN3140", "sentence2": "Ervaring: NEN3140", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met laagspanning", "sentence2": "Ervaring: laagspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met middenspanning", "sentence2": "Ervaring: middenspanning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met installatietechniek", "sentence2": "Ervaring: installatietechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met schakelaarinstallaties", "sentence2": "Ervaring: schakelaarinstallaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met kabelwerk", "sentence2": "Ervaring: kabelwerk", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Installatiemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Installatiemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Servicemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Field Service Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Servicemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Field Service Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Mechatronicus", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Mechatronicus", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Elektromonteur", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: W-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: HVAC Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Klimaatmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Loodgieter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Sanitair Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: CV Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Senior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Junior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Medior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Eerste Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: 1e Monteur W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Allround Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Verwarmingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Airco Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Koelmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Koeltechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Klimaattechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Luchtbehandelingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Gasmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Gasfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Fitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Pijpfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Werktuigbouwkunde", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: WTB Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Klimaatbeheersing", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Installateur HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Onderhoudsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Storingsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Mechanisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Warmtepompen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Zonnepanelen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur Duurzame Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Installatiemonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Installatiemonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Technicus Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Aankomend Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: W-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: HVAC Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Klimaatmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Loodgieter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Sanitair Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: CV Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Senior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Junior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Medior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Eerste Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: 1e Monteur W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Allround Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Verwarmingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Airco Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Koelmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Koeltechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Klimaattechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Luchtbehandelingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Gasmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Gasfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Fitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Pijpfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Monteur Werktuigbouwkunde", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: WTB Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Monteur Klimaatbeheersing", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Installateur HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Onderhoudsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Storingsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Mechanisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Monteur Warmtepompen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Monteur Zonnepanelen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Monteur Duurzame Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Installatiemonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Installatiemonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Technicus Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Aankomend Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: W-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: HVAC Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Klimaatmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Loodgieter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Sanitair Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: CV Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Senior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Junior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Medior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Eerste Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: 1e Monteur W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Allround Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Verwarmingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Airco Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Koelmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Koeltechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Klimaattechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Luchtbehandelingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Gasmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Gasfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Fitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Pijpfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Werktuigbouwkunde", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: WTB Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Klimaatbeheersing", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Installateur HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Onderhoudsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Storingsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Mechanisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Warmtepompen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Zonnepanelen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur Duurzame Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Installatiemonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Installatiemonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Technicus Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Aankomend Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: W-Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: HVAC Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Klimaatmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Loodgieter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Sanitair Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: CV Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Senior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Junior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Medior Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Eerste Monteur Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: 1e Monteur W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Allround Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Verwarmingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Airco Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Koelmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Koeltechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Klimaattechnisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Luchtbehandelingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Gasmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Gasfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Fitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Pijpfitter", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Werktuigbouwkunde", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: WTB Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Klimaatbeheersing", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Installateur HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Onderhoudsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Storingsmonteur Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Mechanisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Warmtepompen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Zonnepanelen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Monteur Duurzame Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Installatiemonteur Woningbouw", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Installatiemonteur Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Technicus Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus", "sentence2": "Profiel: Aankomend Installatiemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Monteur met HVAC", "sentence2": "Ervaring: HVAC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met klimaattechniek", "sentence2": "Ervaring: klimaattechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met sanitair", "sentence2": "Ervaring: sanitair", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met loodgieterij", "sentence2": "Ervaring: loodgieterij", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met CV-installaties", "sentence2": "Ervaring: CV-installaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met koeltechniek", "sentence2": "Ervaring: koeltechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met F-gassen", "sentence2": "Ervaring: F-gassen", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met luchtbehandeling", "sentence2": "Ervaring: luchtbehandeling", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met ventilatie", "sentence2": "Ervaring: ventilatie", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur met airconditioning", "sentence2": "Ervaring: airconditioning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met HVAC", "sentence2": "Ervaring: HVAC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met klimaattechniek", "sentence2": "Ervaring: klimaattechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met sanitair", "sentence2": "Ervaring: sanitair", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met loodgieterij", "sentence2": "Ervaring: loodgieterij", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met CV-installaties", "sentence2": "Ervaring: CV-installaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met koeltechniek", "sentence2": "Ervaring: koeltechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met F-gassen", "sentence2": "Ervaring: F-gassen", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met luchtbehandeling", "sentence2": "Ervaring: luchtbehandeling", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met ventilatie", "sentence2": "Ervaring: ventilatie", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Installatiemonteur met airconditioning", "sentence2": "Ervaring: airconditioning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met HVAC", "sentence2": "Ervaring: HVAC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met klimaattechniek", "sentence2": "Ervaring: klimaattechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met sanitair", "sentence2": "Ervaring: sanitair", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met loodgieterij", "sentence2": "Ervaring: loodgieterij", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met CV-installaties", "sentence2": "Ervaring: CV-installaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met koeltechniek", "sentence2": "Ervaring: koeltechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met F-gassen", "sentence2": "Ervaring: F-gassen", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met luchtbehandeling", "sentence2": "Ervaring: luchtbehandeling", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met ventilatie", "sentence2": "Ervaring: ventilatie", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met airconditioning", "sentence2": "Ervaring: airconditioning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met HVAC", "sentence2": "Ervaring: HVAC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met klimaattechniek", "sentence2": "Ervaring: klimaattechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met sanitair", "sentence2": "Ervaring: sanitair", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met loodgieterij", "sentence2": "Ervaring: loodgieterij", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met CV-installaties", "sentence2": "Ervaring: CV-installaties", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met koeltechniek", "sentence2": "Ervaring: koeltechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met F-gassen", "sentence2": "Ervaring: F-gassen", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met luchtbehandeling", "sentence2": "Ervaring: luchtbehandeling", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met ventilatie", "sentence2": "Ervaring: ventilatie", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus met airconditioning", "sentence2": "Ervaring: airconditioning", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Elektromonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Elektromonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Servicemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Field Service Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Servicemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Installatiemonteur", "sentence2": "Profiel: Field Service Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Monteur", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Service Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Field Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Storingsdienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Service Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Buitendienstmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Senior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Junior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Medior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Field Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Field Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Storingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Piketmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Consignatiedienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Buitendienst Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Reizend Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Mobiel Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Service Medewerker Technisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Technisch Servicemedewerker", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Buitendienst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Allround Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: 1e Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Preventief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Correctief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Onderhoudstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Maintenance Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Liften", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Roltrappen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Medische Apparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Kantoorapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Horeca", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Servicemonteur Koelapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Service Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Field Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Storingsdienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Service Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Buitendienstmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Senior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Junior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Medior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Field Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Field Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Storingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Piketmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Consignatiedienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Buitendienst Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Reizend Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Mobiel Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Service Medewerker Technisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Technisch Servicemedewerker", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Buitendienst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Allround Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: 1e Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Preventief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Correctief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Onderhoudstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Maintenance Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Liften", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Roltrappen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Medische Apparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Kantoorapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Horeca", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Servicemonteur Koelapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Service Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Field Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Storingsdienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Service Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Buitendienstmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Senior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Junior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Medior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Field Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Field Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Storingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Piketmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Consignatiedienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Buitendienst Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Reizend Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Mobiel Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Service Medewerker Technisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Technisch Servicemedewerker", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Buitendienst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Allround Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: 1e Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Preventief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Correctief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Onderhoudstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Maintenance Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Liften", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Roltrappen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Medische Apparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Kantoorapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Horeca", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Storingmonteur", "sentence2": "Profiel: Servicemonteur Koelapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Service Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Field Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Storingsdienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Service Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Buitendienstmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Senior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Junior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Medior Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Field Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Field Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Service Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Storingsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Piketmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Consignatiedienst Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Buitendienst Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Reizend Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Mobiel Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Service Medewerker Technisch", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Technisch Servicemedewerker", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Buitendienst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Allround Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: 1e Servicemonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Preventief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Correctief Onderhoudsmonteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Onderhoudstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Maintenance Technician", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Liften", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Roltrappen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Medische Apparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Kantoorapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Horeca", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Onderhoudsmonteur", "sentence2": "Profiel: Servicemonteur Koelapparatuur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Servicemonteur met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met onderhoud", "sentence2": "Ervaring: onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met troubleshooting", "sentence2": "Ervaring: troubleshooting", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met klantcontact", "sentence2": "Ervaring: klantcontact", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met rijbewijs B", "sentence2": "Ervaring: rijbewijs B", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met storingsanalyse", "sentence2": "Ervaring: storingsanalyse", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met root cause analysis", "sentence2": "Ervaring: root cause analysis", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur met preventief onderhoud", "sentence2": "Ervaring: preventief onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met onderhoud", "sentence2": "Ervaring: onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met troubleshooting", "sentence2": "Ervaring: troubleshooting", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met klantcontact", "sentence2": "Ervaring: klantcontact", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met rijbewijs B", "sentence2": "Ervaring: rijbewijs B", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met storingsanalyse", "sentence2": "Ervaring: storingsanalyse", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met root cause analysis", "sentence2": "Ervaring: root cause analysis", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Field Service Engineer met preventief onderhoud", "sentence2": "Ervaring: preventief onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met onderhoud", "sentence2": "Ervaring: onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met troubleshooting", "sentence2": "Ervaring: troubleshooting", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met klantcontact", "sentence2": "Ervaring: klantcontact", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met rijbewijs B", "sentence2": "Ervaring: rijbewijs B", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met storingsanalyse", "sentence2": "Ervaring: storingsanalyse", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met root cause analysis", "sentence2": "Ervaring: root cause analysis", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Storingmonteur met preventief onderhoud", "sentence2": "Ervaring: preventief onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met storingsdienst", "sentence2": "Ervaring: storingsdienst", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met onderhoud", "sentence2": "Ervaring: onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met troubleshooting", "sentence2": "Ervaring: troubleshooting", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met klantcontact", "sentence2": "Ervaring: klantcontact", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met rijbewijs B", "sentence2": "Ervaring: rijbewijs B", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met elektrotechniek", "sentence2": "Ervaring: elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met storingsanalyse", "sentence2": "Ervaring: storingsanalyse", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met root cause analysis", "sentence2": "Ervaring: root cause analysis", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Onderhoudsmonteur met preventief onderhoud", "sentence2": "Ervaring: preventief onderhoud", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Elektromonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Elektromonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Installatiemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Installatiemonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Mechatronicus", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Mechatronicus", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Field Service Engineer", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Servicemonteur", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronica Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Elektromechanicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Automatiseringstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Senior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Junior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Medior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Lead Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Allround Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Robotica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Vision", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Motion Control", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Hightech", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Semiconductor", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Vakmanschap", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Onderhouds Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronisch Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronisch Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronisch Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Automatisering Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: System Engineer Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Ontwikkelaar Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronica Ingenieur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: R&D Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Ontwikkeling", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Mechatronicus Onderhoud", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronica Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Elektromechanicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Automatiseringstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Senior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Junior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Medior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Lead Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Allround Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Robotica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Vision", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Motion Control", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Hightech", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Semiconductor", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Vakmanschap", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Onderhouds Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronisch Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronisch Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronisch Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Automatisering Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: System Engineer Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Ontwikkelaar Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronica Ingenieur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: R&D Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Ontwikkeling", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Mechatronicus Onderhoud", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronica Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Elektromechanicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Automatiseringstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Senior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Junior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Medior Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Lead Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Allround Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Robotica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Vision", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Motion Control", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Hightech", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Semiconductor", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Vakmanschap", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Onderhouds Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronisch Monteur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronisch Technicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronisch Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronisch Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Automatisering Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: System Engineer Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Ontwikkelaar Mechatronica", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronica Ingenieur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: R&D Mechatronicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Ontwikkeling", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronic Engineer", "sentence2": "Profiel: Mechatronicus Onderhoud", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechatronicus met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Siemens S7", "sentence2": "Ervaring: Siemens S7", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Siemens TIA Portal", "sentence2": "Ervaring: Siemens TIA Portal", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Allen Bradley", "sentence2": "Ervaring: Allen Bradley", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Rockwell", "sentence2": "Ervaring: Rockwell", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Omron", "sentence2": "Ervaring: Omron", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Beckhoff TwinCAT", "sentence2": "Ervaring: Beckhoff TwinCAT", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Codesys", "sentence2": "Ervaring: Codesys", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met B&R Automation", "sentence2": "Ervaring: B&R Automation", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus met Servo", "sentence2": "Ervaring: Servo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Siemens S7", "sentence2": "Ervaring: Siemens S7", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Siemens TIA Portal", "sentence2": "Ervaring: Siemens TIA Portal", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Allen Bradley", "sentence2": "Ervaring: Allen Bradley", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Rockwell", "sentence2": "Ervaring: Rockwell", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Omron", "sentence2": "Ervaring: Omron", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Beckhoff TwinCAT", "sentence2": "Ervaring: Beckhoff TwinCAT", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Codesys", "sentence2": "Ervaring: Codesys", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met B&R Automation", "sentence2": "Ervaring: B&R Automation", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Technicus Mechatronica met Servo", "sentence2": "Ervaring: Servo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met PLC", "sentence2": "Ervaring: PLC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Siemens S7", "sentence2": "Ervaring: Siemens S7", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Siemens TIA Portal", "sentence2": "Ervaring: Siemens TIA Portal", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Allen Bradley", "sentence2": "Ervaring: Allen Bradley", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Rockwell", "sentence2": "Ervaring: Rockwell", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Omron", "sentence2": "Ervaring: Omron", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Beckhoff TwinCAT", "sentence2": "Ervaring: Beckhoff TwinCAT", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Codesys", "sentence2": "Ervaring: Codesys", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met B&R Automation", "sentence2": "Ervaring: B&R Automation", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronic Engineer met Servo", "sentence2": "Ervaring: Servo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: PLC Programmeur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: PLC Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: PLC Programmeur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: PLC Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Elektromonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Monteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Technicus Mechatronica", "sentence2": "Profiel: Elektromonteur", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Mechatronicus", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: PLC Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Besturingstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Control System Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Software Engineer PLC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: SCADA Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Senior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Junior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Medior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Lead PLC Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Principal Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Siemens PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Allen Bradley Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Beckhoff Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Omron Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Mitsubishi PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Codesys Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: SCADA Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: DCS Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: DCS Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: MES Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: MES Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Historian Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Controls Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Besturingssysteem Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Control Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Industrial Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: ICS Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Automation Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Automatiserings Ingenieur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: HMI Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: HMI Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Visualisatie Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: WinCC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Ignition Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: PLC Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Besturingstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Control System Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Software Engineer PLC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: SCADA Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Senior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Junior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Medior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Lead PLC Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Principal Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Siemens PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Allen Bradley Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Beckhoff Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Omron Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Mitsubishi PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Codesys Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: SCADA Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: DCS Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: DCS Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: MES Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: MES Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Historian Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Controls Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Besturingssysteem Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Control Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Industrial Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: ICS Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Automation Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Automatiserings Ingenieur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: HMI Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: HMI Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Visualisatie Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: WinCC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Ignition Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: PLC Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Besturingstechnicus", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Control System Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Software Engineer PLC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: SCADA Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Senior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Junior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Medior PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Lead PLC Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Principal Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Siemens PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Allen Bradley Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Beckhoff Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Omron Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Mitsubishi PLC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Codesys Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: SCADA Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: DCS Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: DCS Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: MES Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: MES Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Historian Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Controls Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Besturingssysteem Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Control Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Industrial Automation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: ICS Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Automation Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Automatiserings Ingenieur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: HMI Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: HMI Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Visualisatie Specialist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: WinCC Programmeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Automation Engineer", "sentence2": "Profiel: Ignition Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: PLC Programmeur met Siemens TIA Portal", "sentence2": "Ervaring: Siemens TIA Portal", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met Step 7", "sentence2": "Ervaring: Step 7", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met Siemens S7-1200", "sentence2": "Ervaring: Siemens S7-1200", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met Siemens S7-1500", "sentence2": "Ervaring: Siemens S7-1500", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met Siemens S7-300", "sentence2": "Ervaring: Siemens S7-300", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met Siemens S7-400", "sentence2": "Ervaring: Siemens S7-400", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met WinCC", "sentence2": "Ervaring: WinCC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met WinCC OA", "sentence2": "Ervaring: WinCC OA", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met WinCC Unified", "sentence2": "Ervaring: WinCC Unified", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur met Allen Bradley", "sentence2": "Ervaring: Allen Bradley", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met Siemens TIA Portal", "sentence2": "Ervaring: Siemens TIA Portal", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met Step 7", "sentence2": "Ervaring: Step 7", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met Siemens S7-1200", "sentence2": "Ervaring: Siemens S7-1200", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met Siemens S7-1500", "sentence2": "Ervaring: Siemens S7-1500", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met Siemens S7-300", "sentence2": "Ervaring: Siemens S7-300", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met Siemens S7-400", "sentence2": "Ervaring: Siemens S7-400", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met WinCC", "sentence2": "Ervaring: WinCC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met WinCC OA", "sentence2": "Ervaring: WinCC OA", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met WinCC Unified", "sentence2": "Ervaring: WinCC Unified", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Engineer met Allen Bradley", "sentence2": "Ervaring: Allen Bradley", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met Siemens TIA Portal", "sentence2": "Ervaring: Siemens TIA Portal", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met Step 7", "sentence2": "Ervaring: Step 7", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met Siemens S7-1200", "sentence2": "Ervaring: Siemens S7-1200", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met Siemens S7-1500", "sentence2": "Ervaring: Siemens S7-1500", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met Siemens S7-300", "sentence2": "Ervaring: Siemens S7-300", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met Siemens S7-400", "sentence2": "Ervaring: Siemens S7-400", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met WinCC", "sentence2": "Ervaring: WinCC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met WinCC OA", "sentence2": "Ervaring: WinCC OA", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met WinCC Unified", "sentence2": "Ervaring: WinCC Unified", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Automation Engineer met Allen Bradley", "sentence2": "Ervaring: Allen Bradley", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Mechatronicus", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Mechatronicus", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Technicus Mechatronica", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Software Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Developer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Software Engineer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Engineer", "sentence2": "Profiel: Developer", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: PLC Programmeur", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectmanager E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Technisch Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Project Engineer Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Senior Projectleider E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Junior Projectleider Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Medior Projectleider Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Lead Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Laagspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Middenspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Hoogspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Data", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Telecom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Uitvoerder E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Uitvoerder Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Coördinator E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Teamleider E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectcoördinator Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Hoofduitvoerder E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Technical Project Manager E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: E&I Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider E&I", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Besturingstechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Installatie Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Netwerken", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectmanager E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Technisch Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Project Engineer Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Senior Projectleider E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Junior Projectleider Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Medior Projectleider Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Lead Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Laagspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Middenspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Hoogspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Data", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Telecom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Uitvoerder E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Uitvoerder Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Coördinator E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Teamleider E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectcoördinator Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Hoofduitvoerder E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Technical Project Manager E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: E&I Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider E&I", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Besturingstechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Installatie Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Netwerken", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectmanager E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Technisch Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Project Engineer Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Senior Projectleider E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Junior Projectleider Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Medior Projectleider Elektrotechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Lead Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Laagspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Middenspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Hoogspanning", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Data", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Telecom", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Utiliteit", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Industrie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Uitvoerder E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Uitvoerder Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Coördinator E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Teamleider E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectcoördinator Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Hoofduitvoerder E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Technical Project Manager E-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: E&I Projectleider", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider E&I", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Besturingstechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Installatie Elektro", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Netwerken", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider met Projectmanagement", "sentence2": "Ervaring: Projectmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met MS Project", "sentence2": "Ervaring: MS Project", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Primavera", "sentence2": "Ervaring: Primavera", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Planon", "sentence2": "Ervaring: Planon", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Budgetbeheer", "sentence2": "Ervaring: Budgetbeheer", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Kostenbeheersing", "sentence2": "Ervaring: Kostenbeheersing", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Risicomanagement", "sentence2": "Ervaring: Risicomanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Stakeholder Management", "sentence2": "Ervaring: Stakeholder Management", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Contractmanagement", "sentence2": "Ervaring: Contractmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Elektrotechniek", "sentence2": "Ervaring: Elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Projectmanagement", "sentence2": "Ervaring: Projectmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met MS Project", "sentence2": "Ervaring: MS Project", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Primavera", "sentence2": "Ervaring: Primavera", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Planon", "sentence2": "Ervaring: Planon", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Budgetbeheer", "sentence2": "Ervaring: Budgetbeheer", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Kostenbeheersing", "sentence2": "Ervaring: Kostenbeheersing", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Risicomanagement", "sentence2": "Ervaring: Risicomanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Stakeholder Management", "sentence2": "Ervaring: Stakeholder Management", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Contractmanagement", "sentence2": "Ervaring: Contractmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Elektrotechniek", "sentence2": "Ervaring: Elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Projectmanagement", "sentence2": "Ervaring: Projectmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met MS Project", "sentence2": "Ervaring: MS Project", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Primavera", "sentence2": "Ervaring: Primavera", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Planon", "sentence2": "Ervaring: Planon", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Budgetbeheer", "sentence2": "Ervaring: Budgetbeheer", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Kostenbeheersing", "sentence2": "Ervaring: Kostenbeheersing", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Risicomanagement", "sentence2": "Ervaring: Risicomanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Stakeholder Management", "sentence2": "Ervaring: Stakeholder Management", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Contractmanagement", "sentence2": "Ervaring: Contractmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Elektrotechniek", "sentence2": "Ervaring: Elektrotechniek", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Werkvoorbereider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Calculator", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Werkvoorbereider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Calculator", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectmanager W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Project Engineer Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Senior Projectleider W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Junior Projectleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Medior Projectleider HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Lead Projectleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Klimaat", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Koeling", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Warmtepompen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Duurzame Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Sanitair", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Sprinkler", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Utiliteit W", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Industrie W", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Uitvoerder W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Uitvoerder Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Coördinator W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Teamleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectcoördinator Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Hoofduitvoerder W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider MEP", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: MEP Projectmanager", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: MEP Coördinator", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider Building Services", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Technical Project Manager MEP", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectmanager W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Project Engineer Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Senior Projectleider W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Junior Projectleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Medior Projectleider HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Lead Projectleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Klimaat", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Koeling", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Warmtepompen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Duurzame Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Sanitair", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Sprinkler", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Utiliteit W", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Industrie W", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Uitvoerder W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Uitvoerder Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Coördinator W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Teamleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectcoördinator Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Hoofduitvoerder W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider MEP", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: MEP Projectmanager", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: MEP Coördinator", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider Building Services", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Technical Project Manager MEP", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Installatietechniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectmanager W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Project Engineer Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Senior Projectleider W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Junior Projectleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Medior Projectleider HVAC", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Lead Projectleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Klimaat", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Koeling", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Warmtepompen", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Duurzame Energie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Sanitair", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Sprinkler", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Utiliteit W", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Industrie W", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Uitvoerder W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Uitvoerder Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Coördinator W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Teamleider Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectcoördinator Installatie", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Hoofduitvoerder W-techniek", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider MEP", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: MEP Projectmanager", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: MEP Coördinator", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Projectleider Building Services", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectmanager", "sentence2": "Profiel: Technical Project Manager MEP", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Projectleider met Projectmanagement", "sentence2": "Ervaring: Projectmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met MS Project", "sentence2": "Ervaring: MS Project", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Primavera", "sentence2": "Ervaring: Primavera", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Planon", "sentence2": "Ervaring: Planon", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Budgetbeheer", "sentence2": "Ervaring: Budgetbeheer", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Kostenbeheersing", "sentence2": "Ervaring: Kostenbeheersing", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Risicomanagement", "sentence2": "Ervaring: Risicomanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Stakeholder Management", "sentence2": "Ervaring: Stakeholder Management", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met Contractmanagement", "sentence2": "Ervaring: Contractmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider met HVAC", "sentence2": "Ervaring: HVAC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Projectmanagement", "sentence2": "Ervaring: Projectmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met MS Project", "sentence2": "Ervaring: MS Project", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Primavera", "sentence2": "Ervaring: Primavera", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Planon", "sentence2": "Ervaring: Planon", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Budgetbeheer", "sentence2": "Ervaring: Budgetbeheer", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Kostenbeheersing", "sentence2": "Ervaring: Kostenbeheersing", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Risicomanagement", "sentence2": "Ervaring: Risicomanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Stakeholder Management", "sentence2": "Ervaring: Stakeholder Management", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met Contractmanagement", "sentence2": "Ervaring: Contractmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Project Manager met HVAC", "sentence2": "Ervaring: HVAC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Projectmanagement", "sentence2": "Ervaring: Projectmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met MS Project", "sentence2": "Ervaring: MS Project", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Primavera", "sentence2": "Ervaring: Primavera", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Planon", "sentence2": "Ervaring: Planon", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Budgetbeheer", "sentence2": "Ervaring: Budgetbeheer", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Kostenbeheersing", "sentence2": "Ervaring: Kostenbeheersing", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Risicomanagement", "sentence2": "Ervaring: Risicomanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Stakeholder Management", "sentence2": "Ervaring: Stakeholder Management", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met Contractmanagement", "sentence2": "Ervaring: Contractmanagement", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectmanager met HVAC", "sentence2": "Ervaring: HVAC", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Projectleider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Project Manager", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Werkvoorbereider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Calculator", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Werkvoorbereider", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Project Manager", "sentence2": "Profiel: Calculator", "score": 0.6, "match_type": "lookalike"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Projectleider", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: 3D Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Productontwerper", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: CAD Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Design Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Werktuigbouwkundig Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Tekenaar Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Senior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Junior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Medior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Lead Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Hoofd Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Principal Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Senior Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Junior Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: SolidWorks Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Inventor Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Creo Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: CATIA Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: NX Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Siemens NX Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Machinebouwer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Machine Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Machineconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Apparatenbouwer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Equipment Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Tooling Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Jig & Fixture Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Matrijzenmaker", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Mold Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Staalconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Steel Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Staalbouwconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Scheepsbouwkundig Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Marine Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: FEM Analist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: FEA Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Structural Analyst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Sterkteberekening Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Stress Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Stress Analyst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Simulatie Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: CFD Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Thermisch Analist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Product Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Productontwikkelaar", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: R&D Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Development Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Concept Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Innovation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: 3D Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Productontwerper", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: CAD Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Design Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Werktuigbouwkundig Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Tekenaar Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Senior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Junior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Medior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Lead Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Hoofd Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Principal Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Senior Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Junior Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: SolidWorks Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Inventor Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Creo Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: CATIA Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: NX Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Siemens NX Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Machinebouwer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Machine Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Machineconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Apparatenbouwer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Equipment Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Tooling Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Jig & Fixture Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Matrijzenmaker", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Mold Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Staalconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Steel Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Staalbouwconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Scheepsbouwkundig Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Marine Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: FEM Analist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: FEA Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Structural Analyst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Sterkteberekening Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Stress Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Stress Analyst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Simulatie Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: CFD Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Thermisch Analist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Product Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Productontwikkelaar", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: R&D Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Development Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Concept Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Mechanical Engineer", "sentence2": "Profiel: Innovation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: 3D Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Productontwerper", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: CAD Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Design Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Werktuigbouwkundig Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Tekenaar Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Senior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Junior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Medior Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Lead Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Hoofd Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Principal Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Senior Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Junior Mechanical Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: SolidWorks Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Inventor Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Creo Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: CATIA Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: NX Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Siemens NX Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Machinebouwer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Machine Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Machineconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Apparatenbouwer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Equipment Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Tooling Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Jig & Fixture Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Matrijzenmaker", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Mold Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Staalconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Steel Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Staalbouwconstructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Scheepsbouwkundig Constructeur", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Marine Designer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: FEM Analist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: FEA Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Structural Analyst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Sterkteberekening Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Stress Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Stress Analyst", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Simulatie Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: CFD Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Thermisch Analist", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Product Developer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Productontwikkelaar", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: R&D Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Development Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Concept Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Design Engineer", "sentence2": "Profiel: Innovation Engineer", "score": 0.95, "match_type": "exact"}
+{"sentence1": "Vacature: Constructeur met SolidWorks", "sentence2": "Ervaring: SolidWorks", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met Inventor", "sentence2": "Ervaring: Inventor", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met Autodesk Inventor", "sentence2": "Ervaring: Autodesk Inventor", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met Creo", "sentence2": "Ervaring: Creo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met PTC Creo", "sentence2": "Ervaring: PTC Creo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met CATIA", "sentence2": "Ervaring: CATIA", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met CATIA V5", "sentence2": "Ervaring: CATIA V5", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met CATIA V6", "sentence2": "Ervaring: CATIA V6", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met Siemens NX", "sentence2": "Ervaring: Siemens NX", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur met NX", "sentence2": "Ervaring: NX", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met SolidWorks", "sentence2": "Ervaring: SolidWorks", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met Inventor", "sentence2": "Ervaring: Inventor", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met Autodesk Inventor", "sentence2": "Ervaring: Autodesk Inventor", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met Creo", "sentence2": "Ervaring: Creo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met PTC Creo", "sentence2": "Ervaring: PTC Creo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met CATIA", "sentence2": "Ervaring: CATIA", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met CATIA V5", "sentence2": "Ervaring: CATIA V5", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met CATIA V6", "sentence2": "Ervaring: CATIA V6", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met Siemens NX", "sentence2": "Ervaring: Siemens NX", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Mechanical Engineer met NX", "sentence2": "Ervaring: NX", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met SolidWorks", "sentence2": "Ervaring: SolidWorks", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met Inventor", "sentence2": "Ervaring: Inventor", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met Autodesk Inventor", "sentence2": "Ervaring: Autodesk Inventor", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met Creo", "sentence2": "Ervaring: Creo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met PTC Creo", "sentence2": "Ervaring: PTC Creo", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met CATIA", "sentence2": "Ervaring: CATIA", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met CATIA V5", "sentence2": "Ervaring: CATIA V5", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met CATIA V6", "sentence2": "Ervaring: CATIA V6", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met Siemens NX", "sentence2": "Ervaring: Siemens NX", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Design Engineer met NX", "sentence2": "Ervaring: NX", "score": 0.8, "match_type": "skill"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Werkvoorbereider", "score": 0.1, "match_type": "negative"}
+{"sentence1": "Vacature: Constructeur", "sentence2": "Profiel: Calculator", "score": 0.1, "match_type": "negative"}

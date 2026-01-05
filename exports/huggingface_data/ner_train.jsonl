@@ -66,17 +66,124 @@
 {"tokens": ["Vereist:", "certificering", "AWS", "Developer"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "software_engineer"}
 {"tokens": ["Vereist:", "certificering", "Azure", "Certified"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "software_engineer"}
 {"tokens": ["Vereist:", "certificering", "Azure", "Developer"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "software_engineer"}
-{"tokens": ["Gezocht:", "Operator", "met", "kennis", "van", "procesbesturing"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Operator", "met", "kennis", "van", "DCS"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Operator", "met", "kennis", "van", "Honeywell"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Procesoperator", "met", "kennis", "van", "procesbesturing"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Procesoperator", "met", "kennis", "van", "DCS"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Procesoperator", "met", "kennis", "van", "Honeywell"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Machine", "Operator", "met", "kennis", "van", "procesbesturing"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Machine", "Operator", "met", "kennis", "van", "DCS"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Gezocht:", "Machine", "Operator", "met", "kennis", "van", "Honeywell"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "operator"}
-{"tokens": ["Vereist:", "certificering", "VAPRO", "A"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
-{"tokens": ["Vereist:", "certificering", "VAPRO", "B"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
-{"tokens": ["Vereist:", "certificering", "VAPRO", "C"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
-{"tokens": ["Vereist:", "certificering", "VAPRO", "D"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
-{"tokens": ["Vereist:", "certificering", "VAPRO", "Operator"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "operator"}
+{"tokens": ["Gezocht:", "Monteur", "met", "kennis", "van", "elektrotechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Monteur", "met", "kennis", "van", "NEN1010"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Monteur", "met", "kennis", "van", "NEN3140"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Elektromonteur", "met", "kennis", "van", "elektrotechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Elektromonteur", "met", "kennis", "van", "NEN1010"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Elektromonteur", "met", "kennis", "van", "NEN3140"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "elektrotechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "NEN1010"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "NEN3140"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Technicus", "met", "kennis", "van", "elektrotechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Technicus", "met", "kennis", "van", "NEN1010"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Technicus", "met", "kennis", "van", "NEN3140"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Vereist:", "certificering", "NEN3140", "VOP"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Vereist:", "certificering", "NEN3140", "VP"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Vereist:", "certificering", "NEN3140"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Vereist:", "certificering", "VCA", "VOL"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Vereist:", "certificering", "VCA", "Basis"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "monteur_elektro"}
+{"tokens": ["Gezocht:", "Monteur", "met", "kennis", "van", "HVAC"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Monteur", "met", "kennis", "van", "klimaattechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Monteur", "met", "kennis", "van", "sanitair"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Installatiemonteur", "met", "kennis", "van", "HVAC"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Installatiemonteur", "met", "kennis", "van", "klimaattechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Installatiemonteur", "met", "kennis", "van", "sanitair"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "HVAC"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "klimaattechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "sanitair"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Technicus", "met", "kennis", "van", "HVAC"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Technicus", "met", "kennis", "van", "klimaattechniek"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Technicus", "met", "kennis", "van", "sanitair"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Vereist:", "certificering", "VCA", "VOL"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Vereist:", "certificering", "VCA", "Basis"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Vereist:", "certificering", "F-gassen", "categorie", "I"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Vereist:", "certificering", "F-gassen", "categorie", "II"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Vereist:", "certificering", "STEK", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "monteur_installatie"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "storingsdienst"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "onderhoud"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Servicemonteur", "met", "kennis", "van", "troubleshooting"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Field", "Service", "Engineer", "met", "kennis", "van", "storingsdienst"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Field", "Service", "Engineer", "met", "kennis", "van", "onderhoud"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Field", "Service", "Engineer", "met", "kennis", "van", "troubleshooting"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Storingmonteur", "met", "kennis", "van", "storingsdienst"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Storingmonteur", "met", "kennis", "van", "onderhoud"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Storingmonteur", "met", "kennis", "van", "troubleshooting"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Onderhoudsmonteur", "met", "kennis", "van", "storingsdienst"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Onderhoudsmonteur", "met", "kennis", "van", "onderhoud"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Onderhoudsmonteur", "met", "kennis", "van", "troubleshooting"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "servicemonteur"}
+{"tokens": ["Vereist:", "certificering", "VCA", "VOL"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "servicemonteur"}
+{"tokens": ["Vereist:", "certificering", "VCA", "Basis"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "servicemonteur"}
+{"tokens": ["Vereist:", "certificering", "NEN3140", "VOP"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "servicemonteur"}
+{"tokens": ["Vereist:", "certificering", "NEN3140", "VP"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "servicemonteur"}
+{"tokens": ["Vereist:", "certificering", "NEN3140"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "servicemonteur"}
+{"tokens": ["Gezocht:", "Mechatronicus", "met", "kennis", "van", "PLC"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Mechatronicus", "met", "kennis", "van", "Siemens", "S7"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Mechatronicus", "met", "kennis", "van", "Siemens", "TIA", "Portal"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL", "I-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Technicus", "Mechatronica", "met", "kennis", "van", "PLC"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Technicus", "Mechatronica", "met", "kennis", "van", "Siemens", "S7"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Technicus", "Mechatronica", "met", "kennis", "van", "Siemens", "TIA", "Portal"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL", "I-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Mechatronic", "Engineer", "met", "kennis", "van", "PLC"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Mechatronic", "Engineer", "met", "kennis", "van", "Siemens", "S7"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "Mechatronic", "Engineer", "met", "kennis", "van", "Siemens", "TIA", "Portal"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL", "I-SKILL"], "functiegroep": "mechatronicus"}
+{"tokens": ["Vereist:", "certificering", "VCA", "VOL"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "mechatronicus"}
+{"tokens": ["Vereist:", "certificering", "VCA", "Basis"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "mechatronicus"}
+{"tokens": ["Vereist:", "certificering", "NEN3140", "VOP"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "mechatronicus"}
+{"tokens": ["Vereist:", "certificering", "NEN3140", "VP"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "mechatronicus"}
+{"tokens": ["Vereist:", "certificering", "MBO", "Mechatronica", "niveau", "4"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT", "I-CERT"], "functiegroep": "mechatronicus"}
+{"tokens": ["Gezocht:", "PLC", "Programmeur", "met", "kennis", "van", "Siemens", "TIA", "Portal"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "PLC", "Programmeur", "met", "kennis", "van", "Step", "7"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "PLC", "Programmeur", "met", "kennis", "van", "Siemens", "S7-1200"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "PLC", "Engineer", "met", "kennis", "van", "Siemens", "TIA", "Portal"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "PLC", "Engineer", "met", "kennis", "van", "Step", "7"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "PLC", "Engineer", "met", "kennis", "van", "Siemens", "S7-1200"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "Automation", "Engineer", "met", "kennis", "van", "Siemens", "TIA", "Portal"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "Automation", "Engineer", "met", "kennis", "van", "Step", "7"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "Automation", "Engineer", "met", "kennis", "van", "Siemens", "S7-1200"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Vereist:", "certificering", "Siemens", "TIA", "Portal", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT", "I-CERT"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Vereist:", "certificering", "Siemens", "SITRAIN"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Vereist:", "certificering", "Siemens", "Certified", "Professional"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Vereist:", "certificering", "Siemens", "S7", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT", "I-CERT"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Vereist:", "certificering", "Rockwell", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "plc_programmeur"}
+{"tokens": ["Gezocht:", "Projectleider", "met", "kennis", "van", "Projectmanagement"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Projectleider", "met", "kennis", "van", "MS", "Project"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Projectleider", "met", "kennis", "van", "Primavera"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Project", "Manager", "met", "kennis", "van", "Projectmanagement"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Project", "Manager", "met", "kennis", "van", "MS", "Project"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "B-TITLE"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Project", "Manager", "met", "kennis", "van", "Primavera"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Projectmanager", "met", "kennis", "van", "Projectmanagement"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Projectmanager", "met", "kennis", "van", "MS", "Project"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Projectmanager", "met", "kennis", "van", "Primavera"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Vereist:", "certificering", "Prince2", "Foundation"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Vereist:", "certificering", "Prince2", "Practitioner"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Vereist:", "certificering", "PMP"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Vereist:", "certificering", "PMI", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Vereist:", "certificering", "IPMA-D"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "projectleider_elektro"}
+{"tokens": ["Gezocht:", "Projectleider", "met", "kennis", "van", "Projectmanagement"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Projectleider", "met", "kennis", "van", "MS", "Project"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Projectleider", "met", "kennis", "van", "Primavera"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Project", "Manager", "met", "kennis", "van", "Projectmanagement"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Project", "Manager", "met", "kennis", "van", "MS", "Project"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "B-TITLE"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Project", "Manager", "met", "kennis", "van", "Primavera"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Projectmanager", "met", "kennis", "van", "Projectmanagement"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Projectmanager", "met", "kennis", "van", "MS", "Project"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Projectmanager", "met", "kennis", "van", "Primavera"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Vereist:", "certificering", "Prince2", "Foundation"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Vereist:", "certificering", "Prince2", "Practitioner"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Vereist:", "certificering", "PMP"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Vereist:", "certificering", "PMI", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Vereist:", "certificering", "IPMA-D"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "projectleider_installatie"}
+{"tokens": ["Gezocht:", "Constructeur", "met", "kennis", "van", "SolidWorks"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Constructeur", "met", "kennis", "van", "Inventor"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Constructeur", "met", "kennis", "van", "Autodesk", "Inventor"], "ner_tags": ["O", "B-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Mechanical", "Engineer", "met", "kennis", "van", "SolidWorks"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Mechanical", "Engineer", "met", "kennis", "van", "Inventor"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Mechanical", "Engineer", "met", "kennis", "van", "Autodesk", "Inventor"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Design", "Engineer", "met", "kennis", "van", "SolidWorks"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Design", "Engineer", "met", "kennis", "van", "Inventor"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Gezocht:", "Design", "Engineer", "met", "kennis", "van", "Autodesk", "Inventor"], "ner_tags": ["O", "B-TITLE", "I-TITLE", "O", "O", "O", "B-SKILL", "I-SKILL"], "functiegroep": "constructeur"}
+{"tokens": ["Vereist:", "certificering", "SolidWorks", "CSWA"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "constructeur"}
+{"tokens": ["Vereist:", "certificering", "CSWP"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "constructeur"}
+{"tokens": ["Vereist:", "certificering", "CSWE"], "ner_tags": ["O", "O", "B-CERT"], "functiegroep": "constructeur"}
+{"tokens": ["Vereist:", "certificering", "SolidWorks", "CSWP"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "constructeur"}
+{"tokens": ["Vereist:", "certificering", "SolidWorks", "certificaat"], "ner_tags": ["O", "O", "B-CERT", "I-CERT"], "functiegroep": "constructeur"}

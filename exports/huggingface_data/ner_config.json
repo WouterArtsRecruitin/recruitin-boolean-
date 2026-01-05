@@ -1,7 +1,7 @@
 {
   "task": "token-classification",
   "model_name_or_path": "distilbert-base-multilingual-cased",
-  "train_file": "exports/huggingface_data/ner_train.jsonl",
+  "train_file": "recruitin_boolean/exports/huggingface_data/ner_train.jsonl",
   "validation_split_percentage": 20,
   "output_dir": "./ner_model",
   "num_train_epochs": 3,
